@@ -1,0 +1,67 @@
+*{
+    padding:0%;
+    margin: 0%;
+}
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+.inicio{
+    width: 100%;
+    margin: auto;
+    height: auto;
+    padding:0%;
+
+}
+
+
+
+.btn-map{
+    width: 100%;
+    margin-bottom: 5px;
+}
+.musicaOff {
+    float: left;
+    right: 0;
+    top: 45%;
+    position: fixed;
+    -webkit-transform-origin: 0 0;
+    -moz-transform-origin: 0 0;
+    -ms-transform-origin: 0 0;
+    -o-transform-origin: 0 0;
+    transform-origin: 0 0;
+    background-color: #04a85c;
+    letter-spacing: 3px;
+    font-family: montserrat;
+    color: #fff;
+    border-radius: 3px 0 0 3px;
+    padding: 12px;
+    font-weight: 100;
+    font-size: 22px;
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    z-index: 1000;
+    text-align: center
+}
+
+    .modal-audio{
+        padding: 4%;
+        text-align: center;
+    }
+    .modal-audio .btn{
+        border-radius: 10px;
+        margin-top: 3%;
+    }
+    
+    #message::placeholder { 
+        color: #ffffff !important;
+        opacity: 1; 
+    }
+
+    .h3{
+      font-family:   'Great Vibes','Combo';
+      font-family: 'Dancing Script','Comfortaa';
+font-family: 'Great Vibes', cursive;
+    }
